@@ -34,3 +34,30 @@ An upgraded responsive version of Nature Explorer, implementing:
 - CSS Grid
 - Flexbox
 - Responsive Web Design
+
+- ## 🚗 Project 3 – RoadGuard
+
+A web-based road safety monitoring and accident alert system created using HTML, CSS, and JavaScript.
+
+### Live Demo
+[🚀 Visit Project 3](https://hanfazainab.github.io/DecodeLabs-Internship/Project-3/)
+
+
+### Features
+
+- 🕳️ Pothole reporting
+- 🚨 Accident detection simulation
+- ⚠️ Live road safety alerts
+- 📊 Road monitoring dashboard
+- ✅ Alert resolution system
+- 🌙 Dark mode
+- 📱 Responsive design
+
+### Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- CSS Grid
+- Flexbox
+- Responsive Web Design
