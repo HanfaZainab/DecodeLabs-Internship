@@ -1,4 +1,4 @@
-name: Deploy RoadGuard to GitHub Pages
+name: Deploy Project 3 - RoadGuard
 
 on:
   push:
@@ -11,7 +11,6 @@ permissions:
   id-token: write
 
 jobs:
-
   deploy:
 
     runs-on: ubuntu-latest
@@ -28,7 +27,7 @@ jobs:
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload RoadGuard
+      - name: Upload Project 3
         uses: actions/upload-pages-artifact@v4
         with:
           path: './Project-3'
